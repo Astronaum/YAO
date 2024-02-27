@@ -11,6 +11,9 @@ YAO is a .NET application designed for efficient time and task management. It pr
 - **Random Quotes:** The homepage displays random quotes each time a user logs in, providing inspiration and motivation.
 - **Task Reminder:** An icon indicates the number of tasks that need to be completed, helping users stay organized and focused.
 
+![Homepage](homepage.png)
+![User space](userspace.png)
+
 ## Installation
 
 1. Clone the repository:
